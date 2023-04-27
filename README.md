@@ -5,3 +5,5 @@
 ## 완전탐색
 * [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
   > %를 잘 사용하자.
+## 탐욕법
+* [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862#)
