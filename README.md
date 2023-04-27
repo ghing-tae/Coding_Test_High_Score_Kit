@@ -4,3 +4,4 @@
   > set을 사용하면 타임아웃 안난다.
 ## 완전탐색
 * [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+  > %를 잘 사용하자.
