@@ -11,4 +11,4 @@
 # SQL 고득점 Kit (틀린것 코드 정리 및 복습)
 ## SUM, MAX, MIN
 * [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115#qna)
-  > LIMIT
+  > LIMIT or 서브쿼리
