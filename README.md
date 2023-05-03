@@ -12,3 +12,6 @@
 ## SUM, MAX, MIN
 * [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115#qna)
   > LIMIT or 서브쿼리
+## GROUP BY
+* [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)
+  > between and MAX
